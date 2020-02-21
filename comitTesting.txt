@@ -1,0 +1,1 @@
+We will add to staging area first and then to the repository.
